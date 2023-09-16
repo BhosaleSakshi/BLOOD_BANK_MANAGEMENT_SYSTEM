@@ -1,0 +1,259 @@
+********************************************************************************************************************************************
+								LIFE LINE BLOOD BANK
+********************************************************************************************************************************************
+								WELCOME
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 3
+____________________________________________________________________________________________________________________________________________
+
+   Basic Requirements for Donation 
+	+ Donor must be in good health and feeling well
+	+ Donor must be at least 18 years old and less than 65
+	+ Donor must weigh at least 45 Kgs
+
+		If Donor does not satisfy these requirements then Person is NOT eligible to Donate !
+
+		If Donor satisfy these requirements then 
+		Donar's blood sample is taken and tested 
+
+			During TEST Hemoglobin and Blood groups are tested tested
+				If Hemoglobin (HB) < 13 then Person can NOT Donate !
+				If Hemoglobin (HB) >= 13 then Donar is eligible to Donate 
+
+			Then Test Result are displayed
+
+			According to Result Blood Packages are sorted and stored in Storage
+
+
+
+ INFORMATION ABOUT BLOOD GROUPS
+
+
+|------------|--------------|-------------|
+| BLOOD TYPE |    GIVES     |  RECIEVES   |
+|------------|--------------|-------------|
+|     A+     |    A+,AB+    | A+,A-,O+,O- |
+|     O+     | O+,A+,B+,AB+ |    O+,O-    |
+|     B+     |    B+,AB+    | B+,B-,O+,O- |
+|     AB+    |      AB+     |  Everyone   |
+|     A-     | A+,A-,AB+,AB-|    A-,O-    |
+|     O-     |   Everyone   |     O-      |
+|     B-     | B+,B-,AB+,AB-|    B-,O-    |
+|     AB-    |    AB+,AB-   | AB-,A-,B-,O-|
+|------------|--------------|-------------|
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 1
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 6
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 2
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 3
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 1
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 1
+
+Please Enter Donor's Weight : 46
+Please Enter Donor's Age    : 26
+
+Now You Can Register :
+Enter Donor's Name     : Sakshi Bhosale
+Enter Donor's Phone No.: 6677228800
+
+						Donor's Blood Sample Will Be Tested soon 
+						Wait for 10 minitues
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 2
+
+				# # # # # # # # # # # # Test Blood Sample # # # # # # # # # # # #
+
+					Test Result of 	-  Sakshi Bhosale
+					Hemoglobin Level  : 19
+					Blood group       : A+
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 3
+
+				# # # # # # # # # # # #  Test Result # # # # # # # # # # # # 
+
+					Sakshi Bhosale Is Eiligible To Donate his Blood  :) 
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 4
+
+				# # # # # # # # # # # #  STORAGE  # # # # # # # # # # # # 
+
+				Units Of Total Blood Package In Storage Are : 1
+				Remaining Blood Package To Test : 0
+
+		Number Of Packages Of Each Blood Group  : 
+		Blood Group A+  : 1
+		Blood Group B+  : 0
+		Blood Group O+  : 0
+		Blood Group AB+ : 0
+		Blood Group A-  : 0
+		Blood Group B-  : 0
+		Blood Group O-  : 0
+		Blood Group AB- : 0
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 5
+
+				# # # # # # # # # # # #  DONAR LIST  # # # # # # # # # # # # 
+
+			 Name : Sakshi Bhosale
+			 Phone No. : 6677228800
+			 Test Status : TEST Done & Result Seen 
+-------------------------------------------------------------------------------------------------------------------------------------------
+____________________________________________________________________________________________________________________________________________
+
+1.Register  
+2.Test Blood Samples 
+3.Test Results And Info 
+4.Total Storage 
+5.Donar List 
+6.Exit
+				What to you want ? : 6
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 2
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 2
+
+					* PLEASE GO TO COUNTER FIRST *
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 1
+
+Enter Patient's Name: Pruthvi
+1.Is Blood Needed For Emergency ? 
+2.Is Blood For Scheduled Operations ?
+1
+
+Patient's Blood Group : o+
+Patient's Age         : 37
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 2
+
+	Name Of Patient : Pruthvi
+	Blood Group Of Patient : o+
+			Sorry, we dont have a blood that can match patient's blood!!
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 1
+
+Enter Patient's Name: Girish
+1.Is Blood Needed For Emergency ? 
+2.Is Blood For Scheduled Operations ?
+2
+
+Patient Blood Group : A+
+Patient Age         : 25
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 2
+
+	Name Of Patient : Girish
+	Blood Group Of Patient : A+
+			Name of Donor : Sakshi Bhosale
+			Blood group of Donor : A+
+			Above information is of the donor whose blood matched you. 
+				Get well soon!!
+____________________________________________________________________________________________________________________________________________
+
+1.Go To Counter   
+2.Check and Give  
+3.Exit
+				Selet Work : 3
+____________________________________________________________________________________________________________________________________________
+
+			1.Donation Department  
+			2.Transfusion Department 
+			3.Info About Process 
+
+				Please Choose Your Department? : 
